@@ -4,7 +4,7 @@ Hi **Women Techmakers Udacity Scholar!** Welcome to this repository where you ca
 
 I would like to thank you for contributing to this project, this is a list we will all build together : )
 
-####Format
+#### Format
 
 If you wish to add a resource, fork the project, make the necessary changes in the file and submit a pull request.
 
@@ -21,6 +21,6 @@ If you wish to add a resource, fork the project, make the necessary changes in t
 
 If you have any questions, please create an issue and we can discuss it in more detail.
 
-####Adding yourself as a contributor
+#### Adding yourself as a contributor
 
 If you've added a resource and you wish to include yourself in the contributors list (Contributors.md) please feel free to do so in your pull request : )
