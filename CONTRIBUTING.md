@@ -8,7 +8,7 @@ I would like to thank you for contributing to this project, this is a list we wi
 
 If you wish to add a resource, fork the project, make the necessary changes in the file and submit a pull request.
 
-- Please, add the resource under its corresponding category within the file. 
+- Please, add the resource under its corresponding category within the file (e.g RecyclerView, CSS). 
     - If the *category doesn't exist*, you can create one by following **this format**:
        
 ---
