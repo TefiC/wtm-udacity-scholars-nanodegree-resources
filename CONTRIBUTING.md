@@ -1,6 +1,6 @@
 # Contributing
 
-Hi **Women Techmakers Udacity Scholar!** Welcome to this repository where you can find a list of resources for your Nanodegree and for your journey through the amazing field of Computer Science. 
+Hi **Women Techmakers Udacity Scholar and Udacity Student!** Welcome to this repository where you can find a list of resources for your Nanodegree and for your journey through the amazing field of Computer Science. 
 
 I would like to thank you for contributing to this project, this is a list we will all build together : )
 
