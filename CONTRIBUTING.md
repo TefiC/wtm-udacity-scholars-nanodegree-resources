@@ -17,10 +17,22 @@ If you wish to add a resource, fork the project, make the necessary changes in t
 
 - [Link to the resource you wish to share with a descriptive title](#) (Preferably the article or resource's title)
 
----
 
-If you have any questions, please create an issue and we can discuss it in more detail.
+-----
+
+#### Pull Request
+
+1- After you fork the project, create a branch with a descriptive name and add your resource.
+
+2- Submit a pull request from that branch to the project's master branch.
+
 
 #### Adding yourself as a contributor
 
 If you've added a resource and you wish to include yourself in the contributors list (Contributors.md) please feel free to do so in your pull request : )
+
+----
+
+If you have any questions, please create an issue and we can discuss it in more detail.
+
+
