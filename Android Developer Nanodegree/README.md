@@ -7,3 +7,7 @@
 **Transitions**
 
 - [Material Design Animations & Transitions](http://lgvalle.xyz/2015/06/07/material-animations/)
+
+**Media Player**
+
+- [Fullscreen Toggle Button](https://geoffledak.com/blog/2017/09/11/how-to-add-a-fullscreen-toggle-button-to-exoplayer-in-android/)
