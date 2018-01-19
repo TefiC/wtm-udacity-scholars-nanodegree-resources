@@ -47,6 +47,12 @@ If you wish to add a resource:
 
 If you've added a resource and you wish to include yourself in the contributors list (Contributors.md) please feel free to do so in your pull request : )
 
+#### Found a Typo?
+
+ Please send a pull request with the fix by creating a branch with a descriptive name and submitting the pull request from your branch to the project's master branch.
+
 ----
 
 If you have any questions, please create an issue and we can discuss it in more detail.
+
+We really appreciate your contributions.
