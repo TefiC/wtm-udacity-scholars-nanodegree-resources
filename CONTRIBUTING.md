@@ -21,7 +21,7 @@ If you wish to add a resource:
        
 **New category name** (in bold text)
 
-- [Link to the resource you wish to share with a descriptive title  (Preferably the article or resource's title)](#)
+- [Link to the resource you wish to share with a descriptive title  (Preferably the article or resource title)](#)
 
 
 -----
