@@ -1,5 +1,9 @@
 ## Resources for the Android Developer Nanodegree
 
+**Resources**
+
+- [Useful Tools for Android Developers](https://github.com/popnfresh234/udacity_android_resources)
+
 **Tabs**
 
 - [Google Play Style Tabs using TabLayout](https://guides.codepath.com/android/google-play-style-tabs-using-tablayout#sliding-tabs-layout)
