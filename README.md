@@ -28,4 +28,4 @@ Welcome! In this repository you can find a list of helpful resources build by **
 
 ---
 
-If you wish to contribute, please read the **CONTRIBUTORS.md** file. Thank you in advance!
+If you wish to contribute, please read the [**CONTRIBUTING.md**](CONTRIBUTING.md) file. Thank you in advance!
