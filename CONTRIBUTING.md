@@ -1,21 +1,27 @@
 # Contributing
 
-Hi **Women Techmakers Udacity Scholar and Udacity Student!** Welcome to this repository where you can find a list of resources for your Nanodegree and for your journey through the amazing field of Computer Science. 
+**Hi!** Welcome to this project where you can find a list of resources for your Nanodegree and for your journey through the amazing field of Computer Science. 
 
-I would like to thank you for contributing to this project, this is a list we will all build together : )
+I would like to thank you for contributing to this project. This is a list we will all build together : )
 
 #### Format
 
-If you wish to add a resource, fork the project, make the necessary changes in the file and submit a pull request.
+If you wish to add a resource:
+
+- Fork the project
+- Add a new branch with a descriptive name
+- Make the necessary changes to the README file that corresponds to your Nanodegree and submit a pull request  *(instructions below, see **Pull Request**)*.
+
+**IMPORTANT NOTE:**
 
 - Please, add the resource under its corresponding category within the file (e.g RecyclerView, CSS). 
-    - If the *category doesn't exist*, you can create one by following **this format**:
+    - If the *category doesn't exist*, you can create one by following **this format:**
        
 ---
        
 **New category name** (in bold text)
 
-- [Link to the resource you wish to share with a descriptive title](#) (Preferably the article or resource's title)
+- [Link to the resource you wish to share with a descriptive title  (Preferably the article or resource's title)](#)
 
 
 -----
@@ -34,5 +40,3 @@ If you've added a resource and you wish to include yourself in the contributors 
 ----
 
 If you have any questions, please create an issue and we can discuss it in more detail.
-
-
