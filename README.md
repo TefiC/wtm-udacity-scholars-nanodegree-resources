@@ -7,6 +7,24 @@ Welcome! In this repository you can find a list of helpful resources build by **
 - Android Basics Nanodegree
 - Front End Web Developer Nanodegree
 - Full Stack Development Nanodegree
+- Data Foundations Nanodegree
+- Data Analyst Nanodegree 
+- React Nanodegre
+- Intro to Programming Nanodegree
+- VR Developer Nanodegree
+- Robotics Software Engineer
+- Digital Marketing Nanodegree
+- Deep Learning Nanodegree Foundation
+- Machine Learning Engineer Nanodegree
+- Artificial Intelligence Nanodegree
+- Self-Driving Car Engineer Nanodegree
+- Business Analyst Nanodegree
+- Android Basics Nanodegree by Google
+- Front-End Web Developer Nanodegree
+- Full Stack Web Developer Nanodegree
+- Android Developer Nanodegree by Google
+- Become an iOS Developer
+- Mobile Web Specialist Nanodegree
 
 ---
 

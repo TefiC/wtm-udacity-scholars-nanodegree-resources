@@ -9,12 +9,22 @@ I would like to thank you for contributing to this project. This is a list we wi
 If you wish to add a resource:
 
 - Fork the project
-- Add a new branch with a descriptive name
-- Make the necessary changes to the README file that corresponds to your Nanodegree and submit a pull request  *(instructions below, see **Pull Request**)*.
+- Add a new branch with a descriptive name.
+- Make the necessary changes to the README file that corresponds to your Nanodegree. (Please include a descriptive **commit message**, following **this format**:
+
+-----
+
+**Added [Resource title]** (do not include the [ ])
+
+-- For the [Nanodegree Title]
+
+-----
+
+- Submit a pull request  *(instructions below, see **Pull Request**)*.
 
 **IMPORTANT NOTE:**
 
-- Please, add the resource under its corresponding category within the file (e.g RecyclerView, CSS). 
+- Please, add the resource *under its corresponding category within the file* (e.g RecyclerView, CSS). 
     - If the *category doesn't exist*, you can create one by following **this format:**
        
 ---
