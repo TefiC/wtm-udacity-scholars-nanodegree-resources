@@ -15,3 +15,12 @@
 **Media Player**
 
 - [Fullscreen Toggle Button](https://geoffledak.com/blog/2017/09/11/how-to-add-a-fullscreen-toggle-button-to-exoplayer-in-android/)
+
+**Networking Libraries**
+
+- [Retrofit](https://github.com/square/retrofit)
+- [Fast Android Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking)
+
+**Hub of useful libraries**
+
+- [Android Arsenal](https://android-arsenal.com/)
